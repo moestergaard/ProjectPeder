@@ -1,0 +1,15 @@
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/obj/Debug/net7.0/ProjectPeder.csproj.AssemblyReference.cache
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/obj/Debug/net7.0/ProjectPeder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/obj/Debug/net7.0/ProjectPeder.AssemblyInfoInputs.cache
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/obj/Debug/net7.0/ProjectPeder.AssemblyInfo.cs
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/obj/Debug/net7.0/ProjectPeder.csproj.CoreCompileInputs.cache
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/bin/Debug/net7.0/ProjectPeder
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/bin/Debug/net7.0/ProjectPeder.deps.json
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/bin/Debug/net7.0/ProjectPeder.runtimeconfig.json
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/bin/Debug/net7.0/ProjectPeder.dll
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/bin/Debug/net7.0/ProjectPeder.pdb
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/obj/Debug/net7.0/ProjectPeder.dll
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/obj/Debug/net7.0/refint/ProjectPeder.dll
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/obj/Debug/net7.0/ProjectPeder.pdb
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/obj/Debug/net7.0/ProjectPeder.genruntimeconfig.cache
+/Users/signethomsen/Desktop/Martin - Computer/ProjectPeder/obj/Debug/net7.0/ref/ProjectPeder.dll

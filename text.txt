@@ -1,0 +1,39 @@
+Hello World!
+Getting Information
+Enter a string: 
+hej
+You entered: hej
+Enter a string: 
+daw
+You entered: daw
+Enter a string: 
+sdf
+You entered: sdf
+Enter a string: 
+hej
+You entered: hej
+Enter a string: 
+17
+You entered: 17
+Enter a string: 
+df
+You entered: df
+Enter a string: 
+sdf
+You entered: sdf
+Enter a string: 
+hej
+You entered: hej
+Enter a string: 
+hej
+You entered: hej
+Enter a string: 
+hek lp
+********************************* 
+ Enter 'done' to exit the program. 
+ Enter 'help' to get help. 
+ ********************************* 
+ 
+Enter a string: 
+done
+Printing Data
