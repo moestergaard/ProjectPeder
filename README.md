@@ -1,5 +1,7 @@
 # ProjectPeder
 
+Selve kodedelen er Program.cs. Alle de andre filer skal du ikke tage dig af.
+
 For at køre programmet kan du i terminalen skrive
     
     dotnet run
